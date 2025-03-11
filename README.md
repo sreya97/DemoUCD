@@ -7,9 +7,13 @@ This project demonstrates the implementation of a Decision Tree Algorithm in Pyt
 Requirements:
 
 To run the Jupyter Notebook successfully, you need the following dependencies installed:
+
 Python (3.x recommended)
+
 Pandas (for data manipulation)
+
 NumPy (for numerical operations)
+
 Scikit-Learn (for model evaluation and comparisons)
 
 Installation:
