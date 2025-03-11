@@ -20,5 +20,7 @@ pip install -r requirements.txt
 Files in the Repository:
 
 decision_tree.ipynb - Jupyter Notebook implementing the Decision Tree Algorithm.
+
 requirements.txt - Lists all required dependencies for the project.
+
 iris1.csv - iris dataset
